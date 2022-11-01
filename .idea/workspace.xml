@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2498e6d2-fb4d-4fd7-9d16-6902ed99dbf6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/padrao_factory_wrs/ITransporteTipo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/padrao_factory_wrs/TransporteFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/padrao_factory_wrs/transporteAquatico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/padrao_factory_wrs/transporteTerrestre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/padrao_factory_wrs/TransporteFactoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/padrao_factory_wrs/transporteTerrestreTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="2498e6d2-fb4d-4fd7-9d16-6902ed99dbf6" name="Changes" comment="Criação do projeto e finalização" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -144,6 +130,14 @@
       <option name="presentableId" value="Default" />
       <updated>1667330935016</updated>
     </task>
+    <task id="LOCAL-00001" summary="Criação do projeto e finalização">
+      <created>1667333214933</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667333214933</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -156,5 +150,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Criação do projeto e finalização" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criação do projeto e finalização" />
   </component>
 </project>
